@@ -4,7 +4,8 @@
     "pluginsConfig": {
         "fontSettings": {
             "theme": "night",
-            "family": "sans"
+            "family": "sans",
+            "size": 2
         },
         "theme-default": {
             "showLevel": false
