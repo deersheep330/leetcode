@@ -38,17 +38,17 @@
 * [35. Search Insert Position](./articles/35.md)
 * [36. Valid Sudoku](./articles/36.md)
 * [37. Sudoku Solver](./articles/37.md)
-* [38. Count and Say](./articles/38.md)
+* [38. Count and Say]
 * [39. Combination Sum](./articles/39.md)
 * [40. Combination Sum II](./articles/40.md)
 * [41. First Missing Positive](./articles/41.md)
 * [42. Trapping Rain Water](./articles/42.md)
 * [43. Multiply Strings](./articles/43.md)
 * [44. Wildcard Matching](./articles/44.md)
-* [45. Jump Game II](./articles/45.md)
+* [45. Jump Game II]
 * [46. Permutations](./articles/46.md)
 * [47. Permutations II](./articles/47.md)
-* [48. Rotate Image](./articles/48.md)
+* [48. Rotate Image]
 * [49. Group Anagrams](./articles/49.md)
 * [50. Pow(x, n)](./articles/50.md)
 * [51. N-Queens](./articles/51.md)
@@ -57,8 +57,8 @@
 * [54. Spiral Matrix](./articles/54.md)
 * [55. Jump Game](./articles/55.md)
 * [56. Merge Intervals](./articles/56.md)
-* [57. Insert Interval](./articles/57.md)
-* [58. Length of Last Word](./articles/58.md)
+* [57. Insert Interval]
+* [58. Length of Last Word]
 * [59. Spiral Matrix II](./articles/59.md)
 * [60. Permutation Sequence](./articles/60.md)
 * [61. Rotate List](./articles/61.md)
@@ -71,12 +71,12 @@
 * [68. Text Justification](./articles/68.md)
 * [69. Sqrt(x)](./articles/69.md)
 * [70. Climbing Stairs](./articles/70.md)
-* [71. Simplify Path](./articles/71.md)
+* [71. Simplify Path]
 * [72. Edit Distance](./articles/72.md)
 * [73. Set Matrix Zeroes](./articles/73.md)
 * [74. Search a 2D Matrix](./articles/74.md)
 * [75. Sort Colors](./articles/75.md)
-* [76. Minimum Window Substring](./articles/76.md)
+* [76. Minimum Window Substring]
 * [77. Combinations](./articles/77.md)
 * [78. Subsets](./articles/78.md)
 * [79. Word Search](./articles/79.md)
@@ -84,22 +84,22 @@
 * [81. Search in Rotated Sorted Array II](./articles/81.md)
 * [82. Remove Duplicates from Sorted List II](./articles/82.md)
 * [83. Remove Duplicates from Sorted List](./articles/83.md)
-* [84. Largest Rectangle in Histogram](./articles/84.md)
-* [85. Maximal Rectangle](./articles/85.md)
+* [84. Largest Rectangle in Histogram]
+* [85. Maximal Rectangle]
 * [86. Partition List](./articles/86.md)
-* [87. Scramble String](./articles/87.md)
+* [87. Scramble String]
 * [88. Merge Sorted Array](./articles/88.md)
-* [89. Gray Code](./articles/89.md)
+* [89. Gray Code]
 * [90. Subsets II](./articles/90.md)
-* [91. Decode Ways](./articles/91.md)
+* [91. Decode Ways]
 * [92. Reverse Linked List II](./articles/92.md)
-* [93. Restore IP Addresses](./articles/93.md)
+* [93. Restore IP Addresses]
 * [94. Binary Tree Inorder Traversal](./articles/94.md)
 * [95. Unique Binary Search Trees II](./articles/95.md)
 * [96. Unique Binary Search Trees](./articles/96.md)
-* [97. Interleaving String](./articles/97.md)
+* [97. Interleaving String]
 * [98. Validate Binary Search Tree](./articles/98.md)
-* [99. Recover Binary Search Tree](./articles/99.md)
+* [99. Recover Binary Search Tree]
 * [100. Same Tree](./articles/100.md)
 * [101. Symmetric Tree](./articles/101.md)
 * [102. Binary Tree Level Order Traversal](./articles/102.md)
@@ -115,7 +115,7 @@
 * [112. Path Sum](./articles/112.md)
 * [113. Path Sum II](./articles/113.md)
 * [114. Flatten Binary Tree to Linked List](./articles/114.md)
-* [115. Distinct Subsequences](./articles/115.md)
+* [115. Distinct Subsequences]
 * [116. Populating Next Right Pointers in Each Node](./articles/116.md)
 * [117. Populating Next Right Pointers in Each Node II](./articles/117.md)
 * [118. Pascal's Triangle](./articles/118.md)
@@ -123,42 +123,42 @@
 * [120. Triangle](./articles/120.md)
 * [121. Best Time to Buy and Sell Stock](./articles/121.md)
 * [122. Best Time to Buy and Sell Stock II](./articles/122.md)
-* [123. Best Time to Buy and Sell Stock III](./articles/123.md)
-* [124. Binary Tree Maximum Path Sum](./articles/124.md)
+* [123. Best Time to Buy and Sell Stock III]
+* [124. Binary Tree Maximum Path Sum]
 * [125. Valid Palindrome](./articles/125.md)
-* [126. Word Ladder II](./articles/126.md)
-* [127. Word Ladder](./articles/127.md)
-* [128. Longest Consecutive Sequence](./articles/128.md)
+* [126. Word Ladder II]
+* [127. Word Ladder]
+* [128. Longest Consecutive Sequence]
 * [129. Sum Root to Leaf Numbers](./articles/129.md)
 * [130. Surrounded Regions](./articles/130.md)
-* [131. Palindrome Partitioning](./articles/131.md)
-* [132. Palindrome Partitioning II](./articles/132.md)
+* [131. Palindrome Partitioning]
+* [132. Palindrome Partitioning II]
 * [133. Clone Graph](./articles/133.md)
 * [134. Gas Station](./articles/134.md)
-* [135. Candy](./articles/135.md)
+* [135. Candy]
 * [136. Single Number](./articles/136.md)
 * [137. Single Number II](./articles/137.md)
 * [138. Copy List with Random Pointer](./articles/138.md)
 * [139. Word Break](./articles/139.md)
-* [140. Word Break II](./articles/140.md)
+* [140. Word Break II]
 * [141. Linked List Cycle](./articles/141.md)
 * [142. Linked List Cycle II](./articles/142.md)
 * [143. Reorder List](./articles/143.md)
 * [144. Binary Tree Preorder Traversal](./articles/144.md)
-* [145. Binary Tree Postorder Traversal](./articles/145.md)
+* [145. Binary Tree Postorder Traversal]
 * [146. LRU Cache](./articles/146.md)
 * [147. Insertion Sort List](./articles/147.md)
 * [148. Sort List](./articles/148.md)
-* [149. Max Points on a Line](./articles/149.md)
-* [150. Evaluate Reverse Polish Notation](./articles/150.md)
-* [151. Reverse Words in a String](./articles/151.md)
+* [149. Max Points on a Line]
+* [150. Evaluate Reverse Polish Notation]
+* [151. Reverse Words in a String]
 * [152. Maximum Product Subarray](./articles/152.md)
 * [153. Find Minimum in Rotated Sorted Array](./articles/153.md)
-* [154. Find Minimum in Rotated Sorted Array II](./articles/154.md)
+* [154. Find Minimum in Rotated Sorted Array II]
 * [155. Min Stack](./articles/155.md)
 * [160. Intersection of Two Linked Lists](./articles/160.md)
 * [162. Find Peak Element](./articles/162.md)
-* [164. Maximum Gap](./articles/164.md)
+* [164. Maximum Gap]
 * [165. Compare Version Numbers](./articles/165.md)
 * [166. Fraction to Recurring Decimal](./articles/166.md)
 * [167. Two Sum II - Input array is sorted](./articles/167.md)
