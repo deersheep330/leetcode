@@ -8,7 +8,6 @@
 
 to be solved:
 
-58. Length of Last Word
 71. Simplify Path
 89. Gray Code
 91. Decode Ways
