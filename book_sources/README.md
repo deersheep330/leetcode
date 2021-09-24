@@ -8,8 +8,7 @@
 
 to be solved:
 
-91. Decode Ways
-93. Restore IP Addresses
+
 97. Interleaving String
 99. Recover Binary Search Tree
 128. Longest Consecutive Sequence
