@@ -8,7 +8,6 @@
 
 to be solved:
 
-89. Gray Code
 91. Decode Ways
 93. Restore IP Addresses
 97. Interleaving String
