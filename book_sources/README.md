@@ -14,3 +14,6 @@ to be solved:
 145. Binary Tree Postorder Traversal
 150. Evaluate Reverse Polish Notation
 151. Reverse Words in a String
+165. Compare Version Numbers
+166. Fraction to Recurring Decimal
+172. Factorial Trailing Zeroes
