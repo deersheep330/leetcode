@@ -8,7 +8,6 @@
 
 to be solved:
 
-71. Simplify Path
 89. Gray Code
 91. Decode Ways
 93. Restore IP Addresses
