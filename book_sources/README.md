@@ -8,9 +8,6 @@
 
 to be solved:
 
-45. Jump Game II
-48. Rotate Image
-57. Insert Interval
 58. Length of Last Word
 71. Simplify Path
 89. Gray Code
