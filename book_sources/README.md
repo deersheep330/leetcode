@@ -8,6 +8,5 @@
 
 to be solved:
 
-165. Compare Version Numbers
 166. Fraction to Recurring Decimal
 172. Factorial Trailing Zeroes
