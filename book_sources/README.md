@@ -8,8 +8,6 @@
 
 to be solved:
 
-131. Palindrome Partitioning
-145. Binary Tree Postorder Traversal
 150. Evaluate Reverse Polish Notation
 151. Reverse Words in a String
 165. Compare Version Numbers
