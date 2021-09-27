@@ -8,8 +8,6 @@
 
 to be solved:
 
-99. Recover Binary Search Tree
-128. Longest Consecutive Sequence
 131. Palindrome Partitioning
 145. Binary Tree Postorder Traversal
 150. Evaluate Reverse Polish Notation
