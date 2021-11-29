@@ -235,3 +235,4 @@
 * [240. Search a 2D Matrix II](./articles/240.md)
 * [241. Different Ways to Add Parentheses](./articles/241.md)
 * [242. Valid Anagram](./articles/242.md)
+* [387. First Unique Character in a String](./articles/387.md)
