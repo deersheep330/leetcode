@@ -1,10 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [-3. Find Median of N 8-bit Numbers](./articles/_3.md)
-* [-2. Implement Stack Using Array or Linked List](./articles/_2.md)
-* [-1. Implement Queue Using Array or Linked List](./articles/_1.md)
-* [0. Reverse a Stack Using Recursion](./articles/0.md)
 * [1. Two Sum](./articles/1.md)
 * [2. Add Two Numbers](./articles/2.md)
 * [3. Longest Substring Without Repeating Characters](./articles/3.md)
@@ -240,3 +236,7 @@
 * [241. Different Ways to Add Parentheses](./articles/241.md)
 * [242. Valid Anagram](./articles/242.md)
 * [387. First Unique Character in a String](./articles/387.md)
+* [1001. Find Median of N 8-bit Numbers](./articles/1001.md)
+* [1002. Implement Stack Using Array or Linked List](./articles/1002.md)
+* [1003. Implement Queue Using Array or Linked List](./articles/1003.md)
+* [1004. Reverse a Stack Using Recursion](./articles/1004.md)
